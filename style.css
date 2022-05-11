@@ -17,14 +17,14 @@ header {
 }
 
 #titulo {
-    margin: 25px;
+  margin: 25px;
 }
 
 #navlist {
   display: inline;
 }
 
-#foto{
+#foto {
   margin-top: 100px;
   width: 100%;
   height: 350px;

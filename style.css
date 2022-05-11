@@ -1,71 +1,70 @@
 * {
-    margin: 0;
+  margin: 0;
 }
 
 body {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
 header {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    height: 100px;
-    text-align: center;
-    z-index: 1;
-    background-color: rgb(216, 216, 216);
-} 
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  z-index: 1;
+  background-color: rgb(216, 216, 216);
+}
 
 #titulo {
     margin: 25px;
 }
 
-
 #navlist {
-    display: inline
+  display: inline;
 }
+
 #foto{
-    margin-top: 100px;
-    width: 100%;
-    height: 350px;
+  margin-top: 100px;
+  width: 100%;
+  height: 350px;
 }
 
 #minha_foto {
-    position: relative;
-    left: 50px;
-    margin-top: 25px;
-
+  position: relative;
+  left: 50px;
+  margin-top: 25px;
 }
 
 #linkedin {
-    margin-left: 50px;
-    color: black;
-    font-size: 20px;
-    text-decoration: none;
+  margin-left: 50px;
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
 }
 
 main {
-    margin-bottom: 100px;
+  margin-bottom: 100px;
 }
 
 h2 {
-    margin-top: 50px;
-    margin-left: 150px;
+  margin-top: 50px;
+  margin-left: 150px;
 }
 
 #lista1 {
-    margin: 25px;
-    display: inline-block;
+  margin: 25px;
+  display: inline-block;
 }
 
 #lista2 {
-    margin: 25px;
-    display: inline-block;
+  margin: 25px;
+  display: inline-block;
 }
 
 footer {
-    width: 100%;
-    height: 150px;
-    background-color: rgb(216, 216, 216);
+  width: 100%;
+  height: 150px;
+  background-color: rgb(216, 216, 216);
 }
 

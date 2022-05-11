@@ -40,6 +40,10 @@ header {
     text-decoration: none;
 }
 
+main {
+    margin-bottom: 100px;
+}
+
 h2 {
     margin-top: 50px;
     margin-left: 150px;
@@ -53,4 +57,10 @@ h2 {
 #lista2 {
     margin: 25px;
     display: inline-block;
+}
+
+footer {
+    width: 100%;
+    height: 150px;
+    background-color: rgb(216, 216, 216);
 }

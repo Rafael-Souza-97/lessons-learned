@@ -19,7 +19,7 @@ Neste projeto foi desenvolvido um site que contem uma série de informações so
 
 ## Infos Adicionais
 
-- ###### Percentual de cumprimento de requisitos - 100%
+- ###### Percentual de cumprimento de requisitos ([Trybe](https://www.betrybe.com/))- 100%
 - ###### Aplicação responsiva - ❌
 
 ## Preview

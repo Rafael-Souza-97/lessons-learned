@@ -1,10 +1,8 @@
-# Exchange Wallet (TrybeWallet)
+# Lessons Learned ([Trybe](https://www.betrybe.com/) first project)
 
-Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para reforçar os conhecimentos HTML e CSS.
+Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para reforçar os conhecimentos de [HTML](https://html.com/) e [CSS](https://www.w3.org/Style/CSS/Overview.en.html).
 
-Neste projeto foi desenvolvido um site que contem uma série de informações sobre o que foi estudado nos três primeiros blocos na 
-[Trybe](https://www.betrybe.com/). O site esta com elementos posicionados e estilizados e além disto, contem semântica apropriada 
-para que seja acessível e melhor ranqueado.
+Neste projeto foi desenvolvido um site que contem uma série de informações sobre o que foi estudado nos três primeiros blocos na [Trybe](https://www.betrybe.com/). O site esta com elementos posicionados e estilizados e além disto, contem semântica apropriada para que seja acessível e melhor ranqueado.
 
 ## Autor
 

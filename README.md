@@ -17,6 +17,11 @@ Neste projeto foi desenvolvido um site que contem uma série de informações so
 - [HTML 5](https://html.com/)
 - [CSS 3](https://www.w3.org/Style/CSS/Overview.en.html)
 
+## Infos Adicionais
+
+- ###### Percentual de cumprimento de requisitos - 100%
+- ###### Aplicação responsiva - ❌
+
 ## Preview
 
 ![lessons-learned-trybe](https://user-images.githubusercontent.com/99055008/189138835-14bc1bdc-4518-46aa-8166-4d4a00d9dcd0.png)
